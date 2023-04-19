@@ -1,17 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T12:17:24.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="MgWTWuC6ttP2VU75gf9c" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T12:18:27.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="6jupgPJQm6yHUWZWEyKu" version="21.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1450" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2150" dy="1330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ocO-wMBfqSubrkdjUmma-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocO-wMBfqSubrkdjUmma-2" target="ocO-wMBfqSubrkdjUmma-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ocO-wMBfqSubrkdjUmma-1" value="用户B" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="-20" width="200" height="700" as="geometry" />
-        </mxCell>
-        <mxCell id="ocO-wMBfqSubrkdjUmma-2" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;输入原密码和新密码&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ocO-wMBfqSubrkdjUmma-1">
-          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocO-wMBfqSubrkdjUmma-51" value="是否接受" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ocO-wMBfqSubrkdjUmma-1">
           <mxGeometry x="45" y="473" width="110" height="50" as="geometry" />
@@ -21,9 +15,6 @@
         </mxCell>
         <mxCell id="ocO-wMBfqSubrkdjUmma-4" value="显示用户A发送了好友添加邀请" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ocO-wMBfqSubrkdjUmma-3">
           <mxGeometry x="15" y="473" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ocO-wMBfqSubrkdjUmma-5" value="发送请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ocO-wMBfqSubrkdjUmma-3">
-          <mxGeometry x="40" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocO-wMBfqSubrkdjUmma-53" value="将好友添加到好友列表，发送信号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ocO-wMBfqSubrkdjUmma-3">
           <mxGeometry x="40" y="540" width="120" height="40" as="geometry" />
@@ -50,16 +41,16 @@
           <mxGeometry x="60" y="545" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocO-wMBfqSubrkdjUmma-10" value="数据库" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1177" y="-20" width="200" height="700" as="geometry" />
+          <mxGeometry x="1177" y="-20" width="263" height="700" as="geometry" />
         </mxCell>
         <mxCell id="ocO-wMBfqSubrkdjUmma-11" value="查询好友信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ocO-wMBfqSubrkdjUmma-10">
-          <mxGeometry x="40" y="123" width="120" height="40" as="geometry" />
+          <mxGeometry x="71.5" y="123" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocO-wMBfqSubrkdjUmma-13" value="新增邀请数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ocO-wMBfqSubrkdjUmma-10">
-          <mxGeometry x="40" y="353" width="120" height="40" as="geometry" />
+          <mxGeometry x="71.5" y="353" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ocO-wMBfqSubrkdjUmma-62" value="将双方相关的所有邀请置为已通过，并在双方的好友列表中添加对方的ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ocO-wMBfqSubrkdjUmma-10">
-          <mxGeometry x="20" y="585" width="170" height="60" as="geometry" />
+          <mxGeometry x="11.5" y="585" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ocO-wMBfqSubrkdjUmma-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ocO-wMBfqSubrkdjUmma-8" target="ocO-wMBfqSubrkdjUmma-4">
           <mxGeometry relative="1" as="geometry">
