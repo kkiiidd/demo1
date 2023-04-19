@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T13:03:42.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="5Ght08UmoEyKbwIoppVl" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T13:05:01.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="-yXL54nhsWon9nRW5ykc" version="21.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1178" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2500" dy="1516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-0" value="ha" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-100" y="-20" width="200" height="700" as="geometry" />
+          <mxGeometry x="-99" y="-20" width="200" height="500" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-1" value="客户端B" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="-20" width="200" height="700" as="geometry" />
+          <mxGeometry x="131" y="-20" width="200" height="500" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-3" value="是否处在与用户A的对话框中" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ng7XL4r3YpD1EdvdtwYs-1">
-          <mxGeometry x="16" y="240" width="170" height="90" as="geometry" />
+          <mxGeometry x="10" y="240" width="176" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-4" value="所有未读的信息显示为已读" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ng7XL4r3YpD1EdvdtwYs-1">
-          <mxGeometry x="16" y="375" width="170" height="40" as="geometry" />
+          <mxGeometry x="13" y="375" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ng7XL4r3YpD1EdvdtwYs-1" source="ng7XL4r3YpD1EdvdtwYs-3" target="ng7XL4r3YpD1EdvdtwYs-4">
           <mxGeometry relative="1" as="geometry">
@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-10" value="服务器" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="826" y="-20" width="240" height="700" as="geometry" />
+          <mxGeometry x="827" y="-20" width="240" height="500" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-11" value="修改状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ng7XL4r3YpD1EdvdtwYs-10">
           <mxGeometry x="60" y="102" width="120" height="40" as="geometry" />
@@ -43,13 +43,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-14" value="客户端A" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="-20" width="200" height="700" as="geometry" />
+          <mxGeometry x="591" y="-20" width="200" height="500" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-15" value="发送信号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ng7XL4r3YpD1EdvdtwYs-14">
           <mxGeometry x="40" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-17" value="用户A" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="-20" width="200" height="700" as="geometry" />
+          <mxGeometry x="361" y="-20" width="200" height="500" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-18" value="进入与用户B的聊天框中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ng7XL4r3YpD1EdvdtwYs-17">
           <mxGeometry x="15" y="40" width="170" height="40" as="geometry" />
@@ -66,10 +66,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-29" value="数据库" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1177" y="-20" width="263" height="700" as="geometry" />
+          <mxGeometry x="1104" y="-20" width="263" height="500" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-30" value="跟新所有用户B发送的消息为已读状态" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="ng7XL4r3YpD1EdvdtwYs-29">
-          <mxGeometry x="71.5" y="123" width="120" height="40" as="geometry" />
+          <mxGeometry x="71.5" y="142" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ng7XL4r3YpD1EdvdtwYs-33" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ng7XL4r3YpD1EdvdtwYs-11" target="ng7XL4r3YpD1EdvdtwYs-30">
           <mxGeometry relative="1" as="geometry">
