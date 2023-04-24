@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T11:07:16.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="5z9mqDRUllDT4R_UxPtW" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T11:07:52.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="ZlZRoPJtgk5tBOiogtgm" version="21.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1062" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="eigsQY8ezV_efAcZmmsu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eigsQY8ezV_efAcZmmsu-6" target="eigsQY8ezV_efAcZmmsu-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eigsQY8ezV_efAcZmmsu-6" value="&lt;div&gt;提示删除成功，&lt;/div&gt;&lt;div&gt;好友从好友列表中被移除&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eigsQY8ezV_efAcZmmsu-6" value="&lt;div&gt;提示删除成功，&lt;/div&gt;&lt;div&gt;动态从动态列表中被移除&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="27.5" y="360" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eigsQY8ezV_efAcZmmsu-8" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
