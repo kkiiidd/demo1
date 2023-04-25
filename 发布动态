@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T05:19:39.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="IGGbaAKfnCw8FLLIXmY9" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T05:19:52.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="ZwkwsclYwv5vZUzghmyf" version="21.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1597" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="VGmJTwrSOjnJXmrNiKxc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VGmJTwrSOjnJXmrNiKxc-10" target="VGmJTwrSOjnJXmrNiKxc-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VGmJTwrSOjnJXmrNiKxc-10" value="&lt;br&gt;&lt;div&gt;跳转到动态页，&lt;/div&gt;&lt;div&gt;并将新动态展示&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VGmJTwrSOjnJXmrNiKxc-10" value="跳转到动态页，&lt;div&gt;并将新动态展示&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-397.5" y="320" width="215" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGmJTwrSOjnJXmrNiKxc-11" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
