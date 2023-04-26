@@ -1,9 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T17:59:20.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" version="21.1.8" etag="ESy71Wyx7MQE6oYGFo1X" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T18:04:50.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="vH3qRVN0ENEJvWIxWmE2" version="21.1.8" type="github">
   <diagram name="第 1 页" id="B3gH3VpwBY4hFcYD3gtJ">
-    <mxGraphModel>
+    <mxGraphModel dx="875" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o_IXmHHnlTvn2O-LJnLR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="o_IXmHHnlTvn2O-LJnLR-6" target="o_IXmHHnlTvn2O-LJnLR-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="210" />
+              <mxPoint x="220" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_IXmHHnlTvn2O-LJnLR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="o_IXmHHnlTvn2O-LJnLR-6" target="o_IXmHHnlTvn2O-LJnLR-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_IXmHHnlTvn2O-LJnLR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="o_IXmHHnlTvn2O-LJnLR-6" target="o_IXmHHnlTvn2O-LJnLR-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="210" />
+              <mxPoint x="615" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o_IXmHHnlTvn2O-LJnLR-6" value="信息操作功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o_IXmHHnlTvn2O-LJnLR-7" value="发送" style="rounded=0;html=1;direction=west;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;flipV=1;whiteSpace=wrap;textDirection=rtl;horizontal=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="188" y="250" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="o_IXmHHnlTvn2O-LJnLR-8" value="显示输入状态" style="rounded=0;html=1;direction=west;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;flipV=1;whiteSpace=wrap;textDirection=rtl;horizontal=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="o_IXmHHnlTvn2O-LJnLR-11" value="显示已读或未读状态" style="rounded=0;html=1;direction=west;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;flipV=1;whiteSpace=wrap;textDirection=rtl;horizontal=1;flipH=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="70" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
