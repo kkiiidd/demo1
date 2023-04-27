@@ -1,9 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-04-27T16:20:40.974Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" version="21.2.2" etag="L1hV2p-wmFmFy5FqLdxi" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-27T16:24:23.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="VGKa5lIx5sKjX1QUJhJT" version="21.2.2" type="github">
   <diagram name="第 1 页" id="8sd_Kc24tF_JQSiHfnp6">
-    <mxGraphModel>
+    <mxGraphModel dx="778" dy="413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2R4EVWkZh_bSFOC-jXkJ-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="25" y="319" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2R4EVWkZh_bSFOC-jXkJ-3" value="登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="319" width="99" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2R4EVWkZh_bSFOC-jXkJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2R4EVWkZh_bSFOC-jXkJ-3" target="2R4EVWkZh_bSFOC-jXkJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2R4EVWkZh_bSFOC-jXkJ-5" value="登录失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2R4EVWkZh_bSFOC-jXkJ-4">
+          <mxGeometry x="0.0336" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2R4EVWkZh_bSFOC-jXkJ-6" value="主界面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="168" y="429" width="99" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
