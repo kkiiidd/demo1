@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T17:49:20.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="KNAPfJVjHmYQ38VnyBy4" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T17:50:07.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="ad3owQtkpZY_slL8CS-h" version="21.2.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1785" dy="1079" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -69,7 +69,7 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0YERqCBuNXgvfhYASqsA-29" value="Messages" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="0YERqCBuNXgvfhYASqsA-29" value="Message" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="-205" y="55" width="172" height="210" as="geometry" />
         </mxCell>
         <mxCell id="0YERqCBuNXgvfhYASqsA-30" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="0YERqCBuNXgvfhYASqsA-29" vertex="1">
@@ -180,7 +180,7 @@
         <mxCell id="0YERqCBuNXgvfhYASqsA-55" value="FK 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="247" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0YERqCBuNXgvfhYASqsA-56" value="Requests" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+        <mxCell id="0YERqCBuNXgvfhYASqsA-56" value="Request" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
           <mxGeometry x="-205" y="-170" width="170" height="180" as="geometry" />
         </mxCell>
         <mxCell id="0YERqCBuNXgvfhYASqsA-57" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="0YERqCBuNXgvfhYASqsA-56" vertex="1">
