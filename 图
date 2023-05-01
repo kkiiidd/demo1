@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T02:10:12.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="i2Zro6XazcOsrh_9boDu" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T02:26:23.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="dXV8aQ_IGQbmQJtGxq5P" version="21.2.3" type="github">
   <diagram name="第 1 页" id="8sd_Kc24tF_JQSiHfnp6">
-    <mxGraphModel dx="3452" dy="951" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4410" dy="1034" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1256,6 +1256,67 @@
         </mxCell>
         <mxCell id="IdNOsrrBBtE225CEVsXg-39" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2254" y="129" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-41" target="IdNOsrrBBtE225CEVsXg-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-41" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2947" y="-375" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="IdNOsrrBBtE225CEVsXg-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-2897" y="-45" as="sourcePoint" />
+            <mxPoint x="-2897" y="15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-43" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IdNOsrrBBtE225CEVsXg-42">
+          <mxGeometry x="-0.281" y="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-46" target="IdNOsrrBBtE225CEVsXg-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2897" y="-175" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2597" y="-95" />
+              <mxPoint x="-2597" y="-113" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-45" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IdNOsrrBBtE225CEVsXg-44">
+          <mxGeometry x="-0.7919" relative="1" as="geometry">
+            <mxPoint x="26" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-46" value="该好友是否在好友列表中" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-3007" y="-145" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-48" target="IdNOsrrBBtE225CEVsXg-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-48" value="用户A输入文本、表情或上传图片，点击发送" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-3040" y="-255" width="287" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-50" target="IdNOsrrBBtE225CEVsXg-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-50" value="提示好友，对话框和好友列表中显示接收到的新消息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-3049" y="-9" width="304" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-51" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2947" y="73" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2897" y="-185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2597" y="-185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-53" value="提示好友已不在好友列表中" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-2705" y="-173" width="215" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
