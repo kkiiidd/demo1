@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T02:26:23.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="dXV8aQ_IGQbmQJtGxq5P" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T02:30:33.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="i6vsBolzfh2aUHH-BTPt" version="21.2.3" type="github">
   <diagram name="第 1 页" id="8sd_Kc24tF_JQSiHfnp6">
-    <mxGraphModel dx="4410" dy="1034" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4410" dy="1181" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1317,6 +1317,65 @@
         </mxCell>
         <mxCell id="IdNOsrrBBtE225CEVsXg-53" value="提示好友已不在好友列表中" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="-2705" y="-173" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-57" target="IdNOsrrBBtE225CEVsXg-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-57" value="用户A输入文字或表情" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-2968" y="259.5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-60" target="IdNOsrrBBtE225CEVsXg-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-59" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IdNOsrrBBtE225CEVsXg-58">
+          <mxGeometry x="-0.1782" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-60" target="IdNOsrrBBtE225CEVsXg-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2681" y="377" />
+              <mxPoint x="-2681" y="709" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-74" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IdNOsrrBBtE225CEVsXg-73">
+          <mxGeometry x="-0.9384" relative="1" as="geometry">
+            <mxPoint x="10" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-60" value="用户B是否处在与用户A的对话框中" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3008" y="331.5" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-62" target="IdNOsrrBBtE225CEVsXg-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-62" value="用户B的聊天框显示 ”对方正在输入“" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-2998" y="476.5" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-66" target="IdNOsrrBBtE225CEVsXg-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-66" value="用户B的聊天框停止显示 &quot;对方正在输入&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-3008" y="611.5" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-68" target="IdNOsrrBBtE225CEVsXg-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2883" y="613.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-68" value="用户A停止输入3秒后" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-2958" y="546.5" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.497;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-69" target="IdNOsrrBBtE225CEVsXg-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-69" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2933" y="177" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-70" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2933" y="679" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
