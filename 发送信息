@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T10:57:04.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="2Iuo0UGdPwJ9qqxrQ4jv" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T02:12:41.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="V-JGbenZ3Lb8EtZC5WB0" version="21.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3190" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2010" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -73,13 +73,13 @@
             <mxPoint x="982" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-2" target="Qc4TOBfDRE63ocTWTwfI-9">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-2" target="Qc4TOBfDRE63ocTWTwfI-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-340" y="-70" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-290" y="300" />
@@ -89,12 +89,12 @@
             <mxPoint x="-290" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qc4TOBfDRE63ocTWTwfI-3">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-4" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qc4TOBfDRE63ocTWTwfI-3" vertex="1" connectable="0">
           <mxGeometry x="-0.281" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-7" target="Qc4TOBfDRE63ocTWTwfI-14">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-7" target="Qc4TOBfDRE63ocTWTwfI-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-290" y="130" as="targetPoint" />
             <Array as="points">
@@ -102,30 +102,30 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qc4TOBfDRE63ocTWTwfI-5">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-6" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Qc4TOBfDRE63ocTWTwfI-5" vertex="1" connectable="0">
           <mxGeometry x="-0.7919" relative="1" as="geometry">
             <mxPoint x="37" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-7" value="该好友是否在好友列表中" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-7" value="该好友是否在好友列表中" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-400" y="160" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-9" target="Qc4TOBfDRE63ocTWTwfI-7">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-9" target="Qc4TOBfDRE63ocTWTwfI-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-9" value="输入文本、表情或上传图片，点击发送" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-9" value="输入文本、表情或上传图片，点击发送" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-410" y="50" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-11" target="Qc4TOBfDRE63ocTWTwfI-12">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-11" target="Qc4TOBfDRE63ocTWTwfI-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-11" value="显示用户A发送信息，对话框和好友列表的用户B上显示接收到的信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-11" value="显示用户A发送信息，对话框和好友列表的用户B上显示接收到的信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-397.5" y="320" width="215" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-12" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-12" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-340" y="420" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-14">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Qc4TOBfDRE63ocTWTwfI-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-290" y="120" as="targetPoint" />
             <Array as="points">
@@ -134,7 +134,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qc4TOBfDRE63ocTWTwfI-14" value="提示好友已不再2好友列表中" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Qc4TOBfDRE63ocTWTwfI-14" value="提示好友已不再好友列表中" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-90" y="130" width="215" height="60" as="geometry" />
         </mxCell>
       </root>
