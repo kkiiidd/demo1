@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T02:38:51.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="cK45ZS0oMyv0tvzKJanx" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T02:42:14.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="m4gZZ2L-Ke7GXAnmNT_z" version="21.2.3" type="github">
   <diagram name="第 1 页" id="8sd_Kc24tF_JQSiHfnp6">
-    <mxGraphModel dx="4208" dy="928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4300" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1427,6 +1427,57 @@
         </mxCell>
         <mxCell id="IdNOsrrBBtE225CEVsXg-85" value="数据库中是否存在该动态" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2059" y="1388" width="220" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-93" target="IdNOsrrBBtE225CEVsXg-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-93" value="在一条好友动态的评论区中输入评论，点击发送评论" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1609.5" y="1311" width="313" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-94" target="IdNOsrrBBtE225CEVsXg-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-94" value="将该评论显示在该条动态中" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1533" y="1551" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-95" target="IdNOsrrBBtE225CEVsXg-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-106" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IdNOsrrBBtE225CEVsXg-101">
+          <mxGeometry x="-0.7463" relative="1" as="geometry">
+            <mxPoint x="15" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-95" target="IdNOsrrBBtE225CEVsXg-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1272" y="1414" />
+              <mxPoint x="-1272" y="1649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-105" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IdNOsrrBBtE225CEVsXg-104">
+          <mxGeometry x="-0.8906" relative="1" as="geometry">
+            <mxPoint x="7" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-95" value="数据库中是否存在该动态" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1563" y="1383" width="220" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-96" target="IdNOsrrBBtE225CEVsXg-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-96" value="在其点赞列表中插入评论的ID" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-1608" y="1478" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdNOsrrBBtE225CEVsXg-97" target="IdNOsrrBBtE225CEVsXg-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-97" value="开始" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1503" y="1228" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdNOsrrBBtE225CEVsXg-98" value="结束" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1503" y="1619" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
